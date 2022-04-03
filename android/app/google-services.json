@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90618722015",
+    "project_id": "thuctap-project",
+    "storage_bucket": "thuctap-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90618722015:android:e2ec50d0b99c5b42d5db6a",
+        "android_client_info": {
+          "package_name": "com.exam111"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90618722015-5hf2ms2hcbannuo2gt57tktvvjrp79ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJKrWvbzTKkD1IzIP1ThP80hPwS5WTcvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90618722015-5hf2ms2hcbannuo2gt57tktvvjrp79ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
